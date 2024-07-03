@@ -8,7 +8,9 @@ This tool helps you free up disk space by automatically clearing temporary files
 
 ## Usage
 
-1. **Download:** Download a release from [releases](https://github.com/LousyBook-01/Temp-File-Clearer/releases).
+1. **Download:** Download the bat script from [here](https://github.com/LousyBook-01/Temp-File-Clearer/blob/main/Clear%20Temp.bat) and click download.                 
+                      
+  ](https://github.com/LousyBook-01/Temp-File-Clearer/releases).
 2. **Save:** Save the downloaded file to a location of your choice.
 3. **Pin:** Pin the tool to your taskbar or start menu for easy access.
 4. **Run:** Run the tool to clear your temporary files! 
